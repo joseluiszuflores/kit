@@ -13,7 +13,7 @@ require (
 	github.com/casbin/casbin/v2 v2.37.0
 	github.com/go-kit/log v0.2.0
 	github.com/go-zookeeper/zk v1.0.2
-	github.com/golang-jwt/jwt/v4 v4.5.1
+	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/hashicorp/consul/api v1.14.0
 	github.com/hudl/fargo v1.4.0
 	github.com/influxdata/influxdb1-client v0.0.0-20200827194710-b269163b24ab
